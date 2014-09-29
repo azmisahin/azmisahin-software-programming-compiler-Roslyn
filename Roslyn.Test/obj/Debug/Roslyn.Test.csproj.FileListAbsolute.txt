@@ -1,0 +1,7 @@
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\bin\Debug\Roslyn.Test.dll
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\bin\Debug\Roslyn.Test.pdb
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\bin\Debug\Roslyn.dll
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\bin\Debug\Roslyn.pdb
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\obj\Debug\Roslyn.Test.csprojResolveAssemblyReference.cache
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\obj\Debug\Roslyn.Test.dll
+c:\Users\Can\documents\visual studio 14\Projects\Roslyn\Roslyn.Test\obj\Debug\Roslyn.Test.pdb

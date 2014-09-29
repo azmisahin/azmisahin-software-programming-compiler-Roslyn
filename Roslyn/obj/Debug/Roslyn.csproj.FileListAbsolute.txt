@@ -1,0 +1,5 @@
+c:\users\can\documents\visual studio 14\Projects\Roslyn\Roslyn\bin\Debug\Roslyn.dll
+c:\users\can\documents\visual studio 14\Projects\Roslyn\Roslyn\bin\Debug\Roslyn.pdb
+c:\users\can\documents\visual studio 14\Projects\Roslyn\Roslyn\obj\Debug\Roslyn.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 14\Projects\Roslyn\Roslyn\obj\Debug\Roslyn.dll
+c:\users\can\documents\visual studio 14\Projects\Roslyn\Roslyn\obj\Debug\Roslyn.pdb
